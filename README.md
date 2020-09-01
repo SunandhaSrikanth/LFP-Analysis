@@ -1,2 +1,3 @@
 # LFP-Analysis
-Analysis of LFP
+
+This tutorial provides an introduction to LFP Analysis methods used in neuroscience. 
