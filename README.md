@@ -1,3 +1,3 @@
 # LFP-Analysis
 
-This tutorial provides an introduction to LFP Analysis methods used in neuroscience. 
+This tutorial provides an introduction to LFP/EEG/EMG/EKG Analysis methods used in neuroscience. 
